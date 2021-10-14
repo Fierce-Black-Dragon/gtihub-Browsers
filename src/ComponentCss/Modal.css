@@ -1,0 +1,33 @@
+.modal{
+    position: fixed;
+     top: 5%;
+     left:35%;
+     width:25%;
+     background-color: white;
+}
+.modal__header{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.modal__header h5{
+margin:0 auto;
+   
+
+}
+.modal__body{
+    justify-content: center;
+    margin-left: 25%;
+}
+.buttons{
+    display: flex;
+    margin: 5% auto;
+    justify-content:space-evenly;
+margin-left:15%;
+width:50%
+
+}
+.buttons button{
+    background-color:black;
+    color:white
+}
